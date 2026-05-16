@@ -10,7 +10,7 @@ homoglyphs and invisible character injection. The six models compared
 are Naive Bayes, Logistic Regression, SVM, MLP, CNN, and DistilBERT.
 
 ## Notebooks
-- **phishing_email.ipynb** — Contains Naive Bayes, Logistic Regression, 
+- **NB_LR_MLP.ipynb** — Contains Naive Bayes, Logistic Regression, 
 and MLP models including adversarial training and evaluation.
 - **SVM_CNN.ipynb** — Contains SVM and CNN models with adversarial 
 attack generation and evaluation.
