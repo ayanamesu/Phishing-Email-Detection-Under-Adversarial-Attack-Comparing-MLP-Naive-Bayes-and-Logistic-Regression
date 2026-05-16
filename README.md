@@ -73,11 +73,11 @@ scipy
 ## Results Summary
 | Model | Clean Acc | Char Sub Acc | Adversarial Acc |
 |---|---|---|---|
-| Naive Bayes | 0.937 | 0.642 | — |
-| Logistic Regression | 0.972 | 0.681 | — |
-| Naive Bayes (Robust) | 0.936 | 0.932 | 0.542 |
-| LR (Robust) | 0.968 | 0.977 | 0.642 |
-| SVM | 0.976 | 0.984 | 0.472 |
-| MLP | 0.974 | 0.970 | 0.476 |
-| CNN | 0.979 | 0.975 | 0.524 |
-| DistilBERT | 0.993 | 0.964 | 0.541 |
+| Naive Bayes | 0.9369 | 0.6417 | — |
+| Logistic Regression | 0.9718 | 0.5920 | — |
+| Naive Bayes (Robust) | 0.9362 | 0.9318 | 0.5423 |
+| LR (Robust) | 0.9681 | 0.9770 | 0.4933 |
+| MLP | 0.9740 | 0.9696 | 0.4755 |
+| SVM | 0.9763 | 0.9844 | 0.4718 |
+| CNN | 0.9785 | 0.9748 | 0.5237 |
+| DistilBERT | 0.9926 | 0.9644 | 0.5408 |
